@@ -43,5 +43,5 @@ We offer fixes to open-source security projects. Each one is tested and disclose
 ![Contributions per month](activity.svg)
 <!-- generated:end -->
 
-Site: https://threatvector.management
+Site: https://threatvector.management · LinkedIn: https://www.linkedin.com/company/threat-vector-management/
 
