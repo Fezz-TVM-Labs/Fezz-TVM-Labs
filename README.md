@@ -3,12 +3,12 @@
 **Threat Vector Management.** Security strategy and threat research. We build tools with AI and share what's useful.
 
 ## How this work gets made
-A person and AI coding assistants build everything here together. The person brings the ideas, the problems worth solving, the design decisions, the testing standards and the final review. The AI assistants write most of the code under that direction. Neither half would produce this alone.
+A person and AI coding assistants build everything here together. The person brings the ideas, the problems worth solving, the design decisions, the testing standards and the final review. The AI assistants write most of the code under that direction. We iterate fast, fail forward, and design products to self heal - down to the sbom components, rebuild, and regress to the latest working - in automated fashion. We find bugs and fixes and have begun to contribute those findings. 
 
 ## What we build
 - **Gate and patch tooling** that tests code before it ships and keeps dependencies current.
 - **Security tools** for exposure scanning, DNS protection and threat research.
-- **Research and analysis apps** for real estate, investing and elections.
+- **Research and analysis apps** for real estate, investing and elections. To use, to share, but a lot for testing our security tools and developing against.
 
 ## How we work
 - Small changes, each tested, published as soon as it passes.
