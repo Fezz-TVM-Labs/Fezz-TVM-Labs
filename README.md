@@ -24,4 +24,24 @@ A person and AI coding assistants build everything here together. The person bri
 ## Contribute upstream
 We offer fixes to open-source security projects. Each one is tested and disclosed as AI-assisted.
 
+<!-- generated:start -->
+## At a glance
+| 5,265 | 5,257 | 44 |
+|---|---|---|
+| contributions in the last year | of them in private repositories | repositories we maintain |
+
+## What we're good at
+- **Self-healing software:** patching, testing and rolling back automatically.
+- **Security tooling:** exposure scanning, DNS protection and threat research.
+- **Data apps that check their own numbers:** real estate, investing and elections.
+- **Testing:** every fix gets a test that fails on the old behaviour.
+
+## What we write in
+![Languages](languages.svg)
+
+## How active we've been
+![Contributions per month](activity.svg)
+<!-- generated:end -->
+
 Site: https://threatvector.management
+
